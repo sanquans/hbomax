@@ -1,5 +1,8 @@
 # > HBO Max
 DOMAIN-KEYWORD,com.hbo.hbonow
+DOMAIN,clients3.google.com
+DOMAIN,api3.branch.io
+DOMAIN,sdk.iad-01.braze.com
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbomax.com
@@ -45,5 +48,5 @@ DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,steamonm.ax
 DOMAIN-SUFFIX,events.brightline.tv
 DOMAIN-SUFFIX,api.apptentive.com
-
+DOMAIN-SUFFIX,appsflyersdk.com
 
